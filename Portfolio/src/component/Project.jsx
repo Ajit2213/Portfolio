@@ -25,7 +25,7 @@ const Projects = () => {
           title: 'Portfolio',
           desc: 'Webelite Builders did an amazing job on our website. Their professionalism and dedication to our project were outstanding.',
           image: Pictur,
-          live: "https://rohitsingh93300-portfolio.vercel.app/",
+          live: "https://shimmering-blini-41560d.netlify.app/",
           github: "https://github.com/rohitsingh93300/portfolio"
         },
        
